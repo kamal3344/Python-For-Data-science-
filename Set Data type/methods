@@ -1,0 +1,11 @@
+# methods
+ # add()
+# update()
+# remove()
+# discard()
+# pop()
+# union
+# intersection
+# difference
+# symmetric_difference
+# intersection_update
